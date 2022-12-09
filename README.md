@@ -23,7 +23,8 @@ returns image descriptors (dimensions and flags) of GIF in int format
 returns the decompressed GIF image as a 3D array, representing the RGB components of each cell in the GIF.
 
 
-Run the main() function to view the outputs of each function, representing the information in the GIF.
+Run the main() function on squares.gif provided to view the outputs of each function, representing the information in the GIF.
+sample-output.txt show the outputs you should expect to recieve from running main()
 
 
 The compression method GIF's use is a variant of LZW (Lempel-Ziv-Welch) compression.
