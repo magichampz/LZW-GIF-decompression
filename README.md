@@ -1,0 +1,1 @@
+# LZW-GIF-decompression
