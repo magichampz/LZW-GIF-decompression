@@ -4,6 +4,7 @@
 
 GIF files comprise a sequence of data blocks which contain information about the GIF format, header, screen descriptors, image descriptors, colour table and the image data, which is the bulk of the data blocks.  
 
+### Functions
 After importing gif.py, the functions described below may be used to view the GIF's data in an easily understandable format.
 
 **data, info = load_file(gif_name)**
