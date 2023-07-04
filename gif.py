@@ -1,4 +1,3 @@
-# Aveek Goswami, 02122058
 
 """Python module to open a GIF (Graphical Interchange Format) file and access its contents
 
