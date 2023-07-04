@@ -1,5 +1,7 @@
 # LZW-GIF-decompression
 
+*As part of a programming assigment. The full assignment handout is provided above*
+
 GIF files comprise a sequence of data blocks which contain information about the GIF format, header, screen descriptors, image descriptors, colour table and the image data, which is the bulk of the data blocks.  
 
 After importing gif.py, the functions described below may be used to view the GIF's data in an easily understandable format.
